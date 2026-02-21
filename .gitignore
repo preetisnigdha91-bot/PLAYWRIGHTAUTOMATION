@@ -1,0 +1,22 @@
+node_modules/
+playwright-report/
+test-results/
+.env
+npm-debug.log*
+.vscode/
+.idea/
+.DS_Store
+coverage/
+reports/
+dist/
+/.pnp
+/.pnp.js
+yarn-error.log
+package-lock.json
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
