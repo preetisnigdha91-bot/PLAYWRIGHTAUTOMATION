@@ -10,7 +10,7 @@ if (grade >= 90 && grade <= 100) {
 } else {
     console.log("Grade is F");
 }
-/*************************/
+/************TASK2*************/
 
 let number = 15;
 if (number%3===0 && number%5===0)
